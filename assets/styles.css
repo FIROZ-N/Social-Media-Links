@@ -99,21 +99,6 @@ body {
     letter-spacing: 0.5px;
 }
 
-footer {
-    margin-top: 10px;
-    width: 100%;
-    padding: 20px;
-    background-color: #333 !important;
-    color: white;
-}
-
-footer span {
-    background-color: black;
-    padding: 5px 10px;
-    border-radius: 7px;
-    color: chartreuse;
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
     .home-section {
