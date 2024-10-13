@@ -37,7 +37,7 @@ body {
 }
 
 .logo-text {
-    color: #f4f4f9;
+    color: chartreuse;
 }
 
 /* Home Section */
@@ -97,6 +97,20 @@ body {
     font-weight: 600;
     text-transform: capitalize;
     letter-spacing: 0.5px;
+}
+
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+footer span {
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 7px;
+    color: chartreuse;
 }
 
 /* Responsive Design */
